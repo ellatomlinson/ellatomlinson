@@ -1,6 +1,6 @@
 # Hi! I'm Ella
 ## 💫 About Me
- 🎓 Computer Science student at the University of Calgary (graduating April 2026!)  <br>⚡️ Currently working as a software developer intern, working on a web application for monitoring large-scale solar projects <br>🚀 Passionate about technology, learning new things, and solving real-world problems with software <br>💫 I love building things that make life easier or more efficient! 
+ 🎓 Computer Science student at the University of Calgary (graduating April 2026!)  <br>⚡️ Currently working as a software developer intern, working on a web application for monitoring large-scale solar projects <br>🚀 Passionate about technology, learning new things, and solving real-world problems with software <br>💫 I love building things  that simplify life, solve real problems, and drive efficiency! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ella-tomlinson25) 
 
